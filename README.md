@@ -16,12 +16,12 @@
 
 ##  Features
 
-- ** Interactive Drawing Canvas** - Draw digits directly in your browser
-- ** Real-time Predictions** - Instant digit recognition as you draw
-- ** Deep Learning Powered** - Custom CNN architecture trained on MNIST dataset
-- ** Responsive Design** - Works seamlessly on desktop and mobile devices
-- ** Fast Processing** - Optimized model for quick inference
-- ** High Accuracy** - Achieved excellent performance on test dataset
+-  Interactive Drawing Canvas - Draw digits directly in your browser
+-  Real-time Predictions - Instant digit recognition as you draw
+-  Deep Learning Powered - Custom CNN architecture trained on MNIST dataset
+-  Responsive Design - Works seamlessly on desktop and mobile devices
+-  Fast Processing - Optimized model for quick inference
+-  High Accuracy - Achieved excellent performance on test dataset
 
 ##  Architecture
 
